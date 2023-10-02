@@ -1,0 +1,98 @@
+{
+  "temp_of_extremities": [
+    "cool",
+    "cold",
+    "normal",
+    "warm",
+    NaN
+  ],
+  "peripheral_pulse": [
+    "reduced",
+    "normal",
+    NaN,
+    "absent",
+    "increased"
+  ],
+  "mucous_membrane": [
+    "dark_cyanotic",
+    "pale_cyanotic",
+    "pale_pink",
+    "normal_pink",
+    "bright_pink",
+    "bright_red",
+    NaN
+  ],
+  "capillary_refill_time": [
+    "more_3_sec",
+    "less_3_sec",
+    NaN,
+    "3"
+  ],
+  "pain": [
+    "depressed",
+    "mild_pain",
+    "extreme_pain",
+    "alert",
+    "severe_pain",
+    NaN,
+    "slight"
+  ],
+  "peristalsis": [
+    "absent",
+    "hypomotile",
+    "normal",
+    "hypermotile",
+    NaN,
+    "distend_small"
+  ],
+  "abdominal_distention": [
+    "slight",
+    "moderate",
+    "none",
+    "severe",
+    NaN
+  ],
+  "nasogastric_tube": [
+    "slight",
+    "none",
+    "significant",
+    NaN
+  ],
+  "nasogastric_reflux": [
+    "less_1_liter",
+    "more_1_liter",
+    "none",
+    NaN,
+    "slight"
+  ],
+  "rectal_exam_feces": [
+    "decreased",
+    "absent",
+    NaN,
+    "normal",
+    "increased",
+    "serosanguious"
+  ],
+  "abdomen": [
+    "distend_small",
+    "distend_large",
+    "normal",
+    "firm",
+    NaN,
+    "other"
+  ],
+  "abdomo_appearance": [
+    "serosanguious",
+    "cloudy",
+    "clear",
+    NaN
+  ],
+  "surgical_lesion": [
+    "yes",
+    "no"
+  ],
+  "cp_data": [
+    "no",
+    "yes"
+  ]
+}
